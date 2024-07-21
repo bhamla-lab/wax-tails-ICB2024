@@ -1,0 +1,130 @@
+planthopper_ID,trial_name,wax_status,prior_jumps_recorded,platform,substrate,landing_successful,landing_view,comments
+hopperB,hopperB-1,ON,0,YES,sandpaper,REMOVE,CAPTURED,jumps towards and lands on mirror - not comparable to other jumps - remove
+hopperB,hopperB-2,ON,1,YES,edge of acrylic sheet,YES,CAPTURED,
+hopperB,hopperB-3,ON,2,YES,edge of acrylic sheet,NO,CAPTURED,does not bounce but a leg unsticks from ground while landing
+hopperB,hopperB-4,ON,3,YES,unknown,UNKNOWN,MISSED,does not capture landing
+hopperB,hopperB-5,ON,4,YES,sandpaper,REMOVE,CAPTURED,glances mirror prior to landing - remove
+hopperB,hopperB-6,ON,5,YES,edge of acrylic sheet,YES,CAPTURED,
+hopperB,hopperB-7,ON,6,YES,sandpaper,YES,MIRROR,landing in mirror only
+hopperB,hopperB-8,ON,7,YES,sandpaper,YES,CAPTURED,
+hopperB,hopperB-9_zoomed,ON,8,YES,sandpaper/edge of acrylic,UNKNOWN,MISSED,does not capture landing
+hopperB,hopperB-10,ON,9,YES,sandpaper/edge of acrylic,UNKNOWN,MISSED,does not capture landing
+hopperB,hopperB-11_nowax-still zoomed,OFF,10,YES,sandpaper/edge of acrylic,UNABLE TO DETERMINE,MIRROR,landing in mirror only; mirror image is blurry
+hopperB,hopperB-12_nowax-still zoomed,OFF,11,YES,sandpaper,UNKNOWN,MISSED,does not capture landing
+hopperB,hopperB-13_nowax-fulltraj,OFF,12,YES,sandpaper,NO,CAPTURED,
+hopperB,hopperB-14_nowax-fulltraj,OFF,13,YES,sandpaper,UNABLE TO DETERMINE,MIRROR,landing in mirror only
+hopperB,hopperB-15_nowax-fulltraj,OFF,14,YES,sandpaper,NO,CAPTURED,
+hopperC,hopperC-1,ON,0,YES,edge of acrylic sheet,YES,CAPTURED,
+hopperC,hopperC-2,ON,1,YES,sandpaper/edge of acrylic,YES,CAPTURED,
+hopperC,hopperC-3,ON,2,YES,sandpaper/edge of acrylic,YES,MIRROR,landing in mirror only
+hopperC,hopperC-4,ON,3,YES,sandpaper/edge of acrylic; moving platform,YES,CAPTURED,moving platform - check take-off velocity
+hopperC,hopperC-5,ON,4,YES,sandpaper/edge of acrylic,YES,CAPTURED,
+hopperC,hopperC-6,ON,5,YES,edge of acrylic; moving platform,YES,CAPTURED,moving platform - check take-off velocity
+hopperC,hopperC-7,ON,6,YES,sandpaper/edge of acrylic,YES,CAPTURED,small jump
+hopperC,hopperC-9,ON,7,YES,sandpaper/edge of acrylic,YES,MIRROR,landing in mirror only; might have been 8 prior jumps but did not record C-8_nowax video
+hopperC,hopperC-10_nowax,OFF,8,YES,sandpaper,YES,CAPTURED,
+hopperC,hopperC-11_nowax,OFF,9,YES,sandpaper,NO,CAPTURED,
+hopperC,hopperC-12_nowax,OFF,10,YES,sandpaper/edge of acrylic,NO,MIRROR,landing in mirror only
+hopperC,hopperC-13_nowax,OFF,11,YES,sandpaper/edge of acrylic,NO,CAPTURED,does not capture landing; hits mirror
+hopperC,hopperC-14_nowax,OFF,12,YES,sandpaper,NO,CAPTURED,
+hopperC,hopperC-15_nowax,OFF,13,YES,sandpaper,NO,CAPTURED,small jump
+hopperC,hopperC-16_nowax,OFF,14,YES,sandpaper/edge of acrylic,NO,CAPTURED,hindfeet stick but not front; hits side of body
+hopperE,hopperE-1,ON,0,YES,edge of acrylic sheet,YES,CAPTURED,
+hopperE,hopperE-2,ON,1,YES,edge of acrylic sheet,YES,CAPTURED,
+hopperE,hopperE-3,ON,2,NO,black cloth,YES,MIRROR,landing in mirror only
+hopperE,hopperE-4,ON,3,NO,black cloth,YES,MIRROR,landing in mirror only; lands on light tripod
+hopperE,hopperE-5,ON,4,NO,black cloth,YES,MIRROR,landing in mirror only
+hopperE,hopperE-6,ON,5,NO,black cloth,REMOVE,CAPTURED,hits mirror then lands on ground
+hopperE,hopperE-7,ON,6,NO,black cloth,YES,CAPTURED,
+hopperE,hopperE-8,ON,7,NO,black cloth,YES,CAPTURED,
+hopperE,hopperE-9,ON,8,NO,black cloth,YES,CAPTURED,
+hopperE,hopperE-10,ON,9,NO,black cloth,YES,MIRROR,landing in mirror only
+hopperF,hopperF-1_nowax,OFF,0,NO,black cloth,UNKNOWN,MISSED,does not capture landing
+hopperF,hopperF-2_nowax,OFF,1,NO,black cloth,YES,CAPTURED,
+hopperF,hopperF-3_nowax,OFF,2,NO,black cloth,YES,MIRROR,landing in mirror only; blurry
+hopperF,hopperF-4_nowax,OFF,3,NO,black cloth,YES,CAPTURED,
+UPLB1,UPLB1-1,ON,0,YES,sandpaper,YES,CAPTURED,small jump
+UPLB1,UPLB1-2,ON,1,YES,sandpaper/edge of acrylic,YES,CAPTURED,small jump
+UPLB2,UPLB2-1,ON,0,NO,black cloth,YES,CAPTURED,small jump
+UPLB2,UPLB2-2,ON,1,YES,sandpaper/edge of acrylic,YES,CAPTURED,
+UPLB2,UPLB2-3,ON,2,YES,sandpaper/edge of acrylic,YES,CAPTURED,small jump
+UPLB2,UPLB2-4,ON,3,NO,black cloth,YES,CAPTURED,
+UPLB2,UPLB2-5,ON,4,NO,black cloth,YES,CAPTURED,
+UPLB2,UPLB2-6,ON,5,NO,black cloth,YES,CAPTURED,
+UPLB2,UPLB2-7,ON,6,NO,black cloth,YES,CAPTURED,small jump
+UPLB2,UPLB2-8,ON,7,NO,black cloth,YES,CAPTURED,
+UPLB2,UPLB2-9,ON,8,NO,black cloth,UNKNOWN,MISSED,does not capture landing
+UPLB2,UPLB2-10,ON,9,NO,black cloth,UNKNOWN,MISSED,does not capture landing
+UPLB2,UPLB2-11,ON,10,NO,black cloth,YES,CAPTURED,
+UPLB3,UPLB3-1,ON,0,NO,black cloth,YES,CAPTURED,
+UPLB3,UPLB3-2,ON,1,NO,black cloth,YES,CAPTURED,small jump
+UPLB3,UPLB3-3,ON,2,NO,black cloth,YES,CAPTURED,
+UPLB3,UPLB3-4,ON,3,NO,black cloth,YES,CAPTURED,
+UPLB3,UPLB3-5,ON,4,NO,black cloth,YES,CAPTURED,
+UPLB3,UPLB3-6,ON,5,NO,black cloth,YES,CAPTURED,
+UPLB3,UPLB3-7,ON,6,NO,black cloth,UNKNOWN,MISSED,does not capture landing
+UPLB3,UPLB3-8,ON,7,NO,black cloth,YES,CAPTURED,small jump
+UPLB3,UPLB3-9_nowax,OFF,8,NO,black cloth,NO,CAPTURED,
+UPLB3,UPLB3-10_nowax,OFF,9,NO,black cloth,UNABLE TO DETERMINE,CAPTURED,
+UPLB3,UPLB3-11_nowax,OFF,8,NO,black cloth,UNKNOWN,MISSED,does not capture landing
+UPLB4,UPLB4-1,ON,0,NO,black cloth,UNKNOWN,MISSED,does not capture landing
+UPLB4,UPLB4-2,ON,1,NO,black cloth,YES,CAPTURED,
+UPLB4,UPLB4-3,ON,2,NO,black cloth,YES,CAPTURED,
+UPLB4,UPLB4-4,ON,3,NO,black cloth,UNKNOWN,MISSED,does not capture landing
+UPLB4,UPLB4-5,ON,4,NO,black cloth,YES,CAPTURED,
+UPLB4,UPLB4-6,ON,5,NO,black cloth,YES,CAPTURED,
+UPLB5,UPLB5-1_nowax,OFF,0,NO,white paper,NO,CAPTURED,
+UPLB5,UPLB5-2_nowax,OFF,1,NO,white paper,NO,CAPTURED,
+UPLB5,UPLB5-3_nowax,OFF,2,NO,white paper; moving,YES,CAPTURED,
+UPLB5,UPLB5-4_nowax,OFF,3,NO,black paper,YES,CAPTURED,
+UPLB5,UPLB5-5_nowax,OFF,4,NO,black paper,NO,CAPTURED,
+UPLB5,UPLB5-6_nowax,OFF,5,NO,black paper,YES,CAPTURED,
+UPLB5,UPLB5-7_nowax,OFF,6,NO,black cloth,UNKNOWN,MISSED,does not capture landing
+UPLB7,UPLB7-1,ON,0,NO,black cloth,YES,CAPTURED,
+UPLB7,UPLB7-2,ON,1,NO,black cloth,YES,CAPTURED,
+UPLB7,UPLB7-3,ON,2,NO,black cloth,YES,CAPTURED,
+UPLB7,UPLB7-4,ON,3,NO,black cloth,YES,CAPTURED,
+UPLB7,UPLB7-5,ON,4,NO,black cloth,YES,CAPTURED,
+UPLB10,UPLB10-1 (should say no wax),OFF,0,NO,black paper,UNKNOWN,MISSED,does not capture landing
+UPLB10,UPLB10-2 (should say no wax),OFF,1,NO,black paper,UNKNOWN,MISSED,does not capture landing
+UPLB10,UPLB10-3 (should say no wax),OFF,2,NO,black paper,UNKNOWN,MISSED,does not capture landing
+UPLB10,UPLB10-4 (should say no wax),OFF,3,NO,black paper,UNKNOWN,MISSED,does not capture landing
+UPLB10,UPLB10-5 (should say no wax),OFF,4,NO,black paper,NO,CAPTURED,
+UPLB10,UPLB10-6 (should say no wax),OFF,5,NO,black cloth,NO,CAPTURED,
+UPLB11,UPLB11-1_nowax,OFF,0,NO,black cloth,NO,CAPTURED,
+UPLB11,UPLB11-2_nowax,OFF,1,NO,black paper,UNKNOWN,MISSED,does not capture landing
+UPLB11,UPLB11-3_nowax,OFF,2,NO,black cloth,UNKNOWN,MISSED,does not capture landing
+UPLB11,UPLB11-4_nowax,OFF,3,NO,black cloth,NO,CAPTURED,
+UPLB11,UPLB11-5_nowax,OFF,4,NO,black cloth,YES,CAPTURED,
+UPLB14,UPLB14-1,ON,0,NO,black paper,YES,CAPTURED,
+UPLB14,UPLB14-2,ON,1,NO,black cloth,UNKNOWN,MISSED,does not capture landing
+UPLB14,UPLB14-3,ON,2,NO,black cloth,YES,CAPTURED,
+UPLB14,UPLB14-4,ON,3,NO,black cloth,YES,CAPTURED,
+UPLB14,UPLB14-5,ON,4,NO,black cloth,UNKNOWN,MISSED,does not capture landing
+UPLB14,UPLB14-6,ON,5,NO,black cloth,YES,CAPTURED,
+UPLB14,UPLB14-7,ON,6,NO,black cloth,YES,CAPTURED,small jump
+UPLB14,UPLB14-8_nowax,OFF,7,NO,black cloth,YES,CAPTURED,
+UPLB14,UPLB14-9_nowax,OFF,8,NO,black cloth,NO,CAPTURED,
+UPLB14,UPLB14-10_nowax,OFF,9,NO,black cloth,NO,CAPTURED,
+UPLB14,UPLB14-11_nowax,OFF,10,NO,black paper,YES,CAPTURED,
+UPLB14,UPLB14-12_nowax,OFF,11,NO,black cloth,UNKNOWN,MISSED,does not capture landing
+UPLB14,UPLB14-13_nowax,OFF,12,NO,black cloth,YES,CAPTURED,
+UPLB15,UPLB15-1,ON,0,NO,black cloth,UNKNOWN,MISSED,does not capture landing
+UPLB15,UPLB15-2,ON,1,NO,black cloth,YES,CAPTURED,
+UPLB15,UPLB15-3,ON,2,NO,black cloth,YES,CAPTURED,
+UPLB15,UPLB15-4,ON,3,NO,black cloth,YES,CAPTURED,
+UPLB15,UPLB15-5,ON,4,NO,black paper,YES,CAPTURED,
+UPLB15,UPLB15-6,ON,5,NO,black cloth,UNKNOWN,MISSED,does not capture landing
+UPLB15,UPLB15-7_nowax,OFF,6,NO,black cloth,UNKNOWN,MISSED,does not capture landing
+UPLB15,UPLB15-8_nowax,OFF,7,NO,black cloth,UNABLE TO DETERMINE,CAPTURED,hindlegs stick but not front
+UPLB15,UPLB15-9_nowax,OFF,8,NO,black paper,NO,CAPTURED,
+UPLB15,UPLB15-10_nowax,OFF,9,NO,black paper,NO,CAPTURED,face hits and rest of body lands
+UPLB15,UPLB15-11_nowax,OFF,10,NO,black cloth,UNKNOWN,MISSED,
+UPLB16,UPLB16-1,ON,0,NO,black cloth,YES,CAPTURED,small jump
+UPLB16,UPLB16-2,ON,1,NO,black cloth,YES,CAPTURED,small jump
+UPLB16,UPLB16-3,ON,2,NO,black cloth,YES,CAPTURED,small jump
+UPLB16,UPLB16-4,ON,3,NO,black cloth,YES,CAPTURED,small jump
+UPLB17,UPLB17-1,ON,0,NO,black cloth,YES,CAPTURED,small jump
+UPLB17,UPLB17-2,ON,1,NO,black cloth,YES,CAPTURED,small jump
+UPLB17,UPLB17-3,ON,2,NO,black cloth,YES,CAPTURED,small jump
+UPLB17,UPLB17-4,ON,3,NO,black cloth,YES,CAPTURED,small jump
